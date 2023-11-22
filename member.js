@@ -1,0 +1,34 @@
+function skillsMember() {
+    var skills = document.getElementById("skills");
+    var member = document.getElementById("member");
+    var memberSkills = document.getElementById("memberSkills");
+    var memberSkillsButton = document.getElementById("memberSkillsButton");
+    var memberSkillsButtonClose = document.getElementById("memberSkillsButtonClose");
+    var memberSkillsButtonClose2 = document.getElementById("memberSkillsButtonClose2");
+    var memberSkillsButtonClose3 = document.getElementById("memberSkillsButtonClose3");
+    var memberSkillsButtonClose4 = document.getElementById("memberSkillsButtonClose4");
+    var memberSkillsButtonClose5 = document.getElementById("memberSkillsButtonClose5");
+    var memberSkillsButtonClose6 = document.getElementById("memberSkillsButtonClose6");
+    var memberSkillsButtonClose7 = document.getElementById("memberSkillsButtonClose7");
+    var memberSkillsButtonClose8 = document.getElementById("memberSkillsButtonClose8");
+    var memberSkillsButtonClose9 = document.getElementById("memberSkillsButtonClose9");
+    var memberSkillsButtonClose10 = document.getElementById("memberSkillsButtonClose10");
+    var memberSkillsButtonClose11 = document.getElementById("memberSkillsButtonClose11");
+    var memberSkillsButtonClose12 = document.getElementById("memberSkillsButtonClose12");
+    var memberSkillsButtonClose13 = document.getElementById("memberSkillsButtonClose13");
+    var memberSkillsButtonClose14 = document.getElementById("memberSkillsButtonClose14");
+    var memberSkillsButtonClose15 = document.getElementById("memberSkillsButtonClose15");
+    var memberSkillsButtonClose16 = document.getElementById("memberSkillsButtonClose16");
+    var memberSkillsButtonClose17 = document.getElementById("memberSkillsButtonClose17");
+    var memberSkillsButtonClose18 = document.getElementById("memberSkillsButtonClose18");
+    var memberSkillsButtonClose19 = document.getElementById("memberSkillsButtonClose19");
+    var memberSkillsButtonClose20 = document.getElementById("memberSkillsButtonClose20");
+    var memberSkillsButtonClose21 = document.getElementById("memberSkillsButtonClose21");
+    var memberSkillsButtonClose22 = document.getElementById("memberSkillsButtonClose22");
+    var memberSkillsButtonClose23 = document.getElementById("memberSkillsButtonClose23");
+    var memberSkillsButtonClose24 = document.getElementById("memberSkillsButtonClose24");
+    var memberSkillsButtonClose25 = document.getElementById("memberSkillsButtonClose25");
+    var memberSkillsButtonClose26 = document.getElementById("memberSkillsButtonClose26");
+    var memberSkillsButtonClose27 = document.getElementById("memberSkillsButtonClose27");   
+    var memberSkillsButtonClose28 = document.getElementById("memberSkillsButtonClose28");
+}
